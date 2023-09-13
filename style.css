@@ -97,7 +97,7 @@ li span{
 /* Small */
 @media screen and (max-width: 767px){
    .create-input{
-    width: 300px;
+    width: 350px;
     padding: 5px;
     height: 250px;
    flex-direction: column;
